@@ -10,6 +10,6 @@ class City(BaseModel):
         state_id (str): The state id.
         name (str): The name of the city.
     """
-
+# City inherits from BaseModel
     state_id = ""
     name = ""
