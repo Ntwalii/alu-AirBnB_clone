@@ -11,3 +11,4 @@ class State(BaseModel):
     """
 
     name = ""
+# Path: models/city.py
