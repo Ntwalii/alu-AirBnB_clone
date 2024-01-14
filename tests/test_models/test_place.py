@@ -13,7 +13,7 @@ from datetime import datetime
 from time import sleep
 from models.place import Place
 
-
+#  REMEBER TO : Review this docstring 
 class TestPlace_instantiation(unittest.TestCase):
     """Unittests for testing instantiation of the Place class."""
 
