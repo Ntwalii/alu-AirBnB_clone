@@ -12,6 +12,7 @@ from models.place import Place
 from models.amenity import Amenity
 from models.review import Review
 
+# This is a regular expression that matches the syntax of a command
 
 def parse(arg):
     curly_braces = re.search(r"\{(.*?)\}", arg)
