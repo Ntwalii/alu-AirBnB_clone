@@ -2,7 +2,7 @@
 """Defines the User class."""
 from models.base_model import BaseModel
 
-
+# User inherits from BaseModel
 class User(BaseModel):
     """Represent a User.
 
@@ -17,3 +17,4 @@ class User(BaseModel):
     password = ""
     first_name = ""
     last_name = ""
+# Path: models/state.py

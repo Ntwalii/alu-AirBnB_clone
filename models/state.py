@@ -2,7 +2,7 @@
 """Defines the State class."""
 from models.base_model import BaseModel
 
-
+# State inherits from BaseModel
 class State(BaseModel):
     """Represent a state.
 
@@ -11,3 +11,4 @@ class State(BaseModel):
     """
 
     name = ""
+# Path: models/city.py

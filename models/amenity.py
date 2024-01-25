@@ -2,7 +2,7 @@
 """Defines the Amenity class."""
 from models.base_model import BaseModel
 
-
+# Amenity inherits from BaseModel
 class Amenity(BaseModel):
     """Represent an amenity.
 
