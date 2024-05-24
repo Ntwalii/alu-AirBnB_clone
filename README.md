@@ -1,7 +1,5 @@
 # alu-AirBnB_clone
-<<<<<<< HEAD
-#By David Mwape <d.mwape@alustudent.com>
-=======
+
 Contributors
 In this initial phase of the AirBnB clone project, we collaborated with the following contributors:
 
@@ -26,4 +24,4 @@ Destroying objects: Providing the necessary functionality to manage and remove o
 Our documentation serves as a valuable resource for users and developers alike. It not only elucidates the technical intricacies of the application but also aims to empower users to interact seamlessly with the system, unlocking its full potential.
 
 As we progress in this journey, we remain committed to maintaining transparent and accessible documentation, ensuring a positive and enriching experience for all stakeholders involved in the AirBnB clone project.
->>>>>>> 3a726dfa8bafc6a0081ab41c516d6d9948f0b367
+
